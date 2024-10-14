@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#Audio files
+*.webm
+*.mp3
+
 # Distribution / packaging
 .Python
 build/
